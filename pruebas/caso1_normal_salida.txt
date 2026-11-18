@@ -1,0 +1,43 @@
+
+========== SICAU FÁCIL ==========
+ 1. Generar y abrir la página
+ 2. Ver talleres en consola
+ 3. Ver cursos de bienestar en consola
+ 0. Salir
+Opción: 2
+  Matemáticas          Taller 1: Fracciones           Semana 2
+  Matemáticas          Taller 2: Ecuaciones lineales  Semana 4
+  Cálculo              Taller 1: Límites              Semana 3
+  Lógica y Algoritmos  Taller 1: Diagramas de flujo   Semana 2
+  Programación en C#   Taller 1: Vectores             Semana 5
+  Inglés               Workshop 1: Greetings          Semana 1
+
+========== SICAU FÁCIL ==========
+ 1. Generar y abrir la página
+ 2. Ver talleres en consola
+ 3. Ver cursos de bienestar en consola
+ 0. Salir
+Opción: 3
+  Bachata      Baile            Martes 4:00 p. m.      25 cupos
+  Salsa        Baile            Jueves 4:00 p. m.      25 cupos
+  Taekwondo    Artes marciales  Lunes 6:00 p. m.       20 cupos
+  Karate       Artes marciales  Miércoles 6:00 p. m.   20 cupos
+  Fútbol sala  Fútbol           Viernes 2:00 p. m.     15 cupos
+  Fútbol 11    Fútbol           Sábado 9:00 a. m.      22 cupos
+  Total de cupos ofrecidos: 127
+
+========== SICAU FÁCIL ==========
+ 1. Generar y abrir la página
+ 2. Ver talleres en consola
+ 3. Ver cursos de bienestar en consola
+ 0. Salir
+Opción: 1
+Página generada en: C:\Users\USER\Desktop\proyecto\proyecto final 2\pagina
+
+========== SICAU FÁCIL ==========
+ 1. Generar y abrir la página
+ 2. Ver talleres en consola
+ 3. Ver cursos de bienestar en consola
+ 0. Salir
+Opción: 0
+Hasta pronto.

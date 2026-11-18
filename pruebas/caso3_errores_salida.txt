@@ -1,0 +1,16 @@
+
+========== SICAU FÁCIL ==========
+ 1. Generar y abrir la página
+ 2. Ver talleres en consola
+ 3. Ver cursos de bienestar en consola
+ 0. Salir
+Opción: 
+  [ERROR] No puede estar vacío.
+Opción: abc
+  [ERROR] Escriba un número.
+Opción: -1
+  [ERROR] Debe estar entre 0 y 3.
+Opción: 2.5
+  [ERROR] Escriba un número.
+Opción: 0
+Hasta pronto.
